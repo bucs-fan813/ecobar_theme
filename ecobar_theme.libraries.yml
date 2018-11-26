@@ -4,7 +4,6 @@ global-styling:
       css/style.css: {}
 global-script:
   js:
-    theme:
       js/script.js: {}
 ecobar.js:
   remote: https://cdn.nga.mil/#/ecobar
@@ -14,4 +13,4 @@ ecobar.js:
     url: https://gitlab.gs.mil/UXD/ecobar-releases/blob/master/README.md
     gpl-compatible: false
   js:
-    //cdn.nga.mil/libs/ecobar/versions/3.1.0/ecobar.min.js: { type: external, minified: true }
+   //cdn.nga.mil/libs/ecobar/versions/3.1.0/ecobar.min.js: { type: external, minified: true }

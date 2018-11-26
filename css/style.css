@@ -4,3 +4,10 @@
 #ecobar #ecobar-header {
  top:85px !important; 
  }
+ #ecobar-title-long {
+  visibility: hidden;
+}
+#ecobar-title-long:before {
+	  visibility: visible;
+	  content: 'NATIONAL GEOSPATIAL-INTELLIGENCE AGENCY COLLEGE';
+}
