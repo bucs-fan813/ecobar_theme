@@ -5,6 +5,7 @@ base theme: bootstrap
 name: 'Ecobar Theme'
 description: 'Uses the cdn.nga.mil CDN for all CSS and JavaScript. No source files or compiling is necessary and is recommended for simple sites or beginners.'
 package: 'NGA'
+screenshot: 'screenshot.png'
 
 regions:
   navigation: 'Navigation'
@@ -21,3 +22,4 @@ regions:
 
 libraries:
   - 'ecobar_theme/global-styling'
+  - 'ecobar_theme/global-script'
