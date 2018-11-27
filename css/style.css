@@ -1,8 +1,8 @@
 /**
  * Place your custom styles here.
  */
-#ecobar #ecobar-header {
- top:85px !important; 
+ body.isAdmin #ecobar-header {
+ top:79px !important; 
  }
  #ecobar-title-long {
   visibility: hidden;

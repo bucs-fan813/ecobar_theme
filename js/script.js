@@ -28,4 +28,8 @@ $( document ).ready(function() {
 };
 
 window.ecobarApp && ecobarApp.init( ecobarLocalConfig ) ;    // apply the Ecobar
+
+if ($('#toolbar-administration').length > 0) {
+	$('body').addClass('isAdmin');
+}
 });
