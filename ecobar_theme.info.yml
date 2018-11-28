@@ -21,6 +21,7 @@ regions:
   page_bottom: 'Page bottom'
 
 libraries:
+  - 'ecobar_theme/ecobar.js'
   - 'ecobar_theme/global-styling'
   - 'ecobar_theme/global-script'
-  - 'ecobar_theme/ecobar.js'
+  

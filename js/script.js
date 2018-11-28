@@ -1,5 +1,5 @@
 // A $( document ).ready() block.
-$( document ).ready(function() {
+(function ($) {
     var ecobarLocalConfig = {                      // all settings are optional
         "app_id": "NGC179XUHB17D",             // supplied by TF per website
         "network": {
@@ -32,4 +32,4 @@ window.ecobarApp && ecobarApp.init( ecobarLocalConfig ) ;    // apply the Ecobar
 if ($('#toolbar-administration').length > 0) {
 	$('body').addClass('isAdmin');
 }
-});
+}(jQuery));
