@@ -36,3 +36,14 @@
     height: 28px !important;
 	min-height: unset;
 }
+.navbar-header {
+    height: 27px;
+}
+#navbar .navbar-toggle {
+	padding: 4px 8px;
+	margin-top: 3px;
+	/* background-color: #fff; */
+}
+#navbar-collapse #block-ecobar-theme-main-menu {
+	background-color: #333;
+}
