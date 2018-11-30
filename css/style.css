@@ -11,3 +11,28 @@
 	  visibility: visible;
 	  content: 'NATIONAL GEOSPATIAL-INTELLIGENCE AGENCY COLLEGE';
 }
+
+#block-ecobar-theme-main-menu ul li > a {
+	color: #ccc;
+	font-family: "Raleway, Helevetica, Arial, sans-serif;
+	font-size: 11px;
+	text-transform: uppercase;
+	font-weight: 600;
+	letter-spacing: 1px;
+	padding: 4px 15px;
+}
+#block-ecobar-theme-main-menu .navbar-nav > li > .dropdown-menu {
+	background-color: #222;
+}
+#block-ecobar-theme-main-menu ul > li > a:hover {
+	background-color: #333;
+	color:#fff;
+}
+#block-ecobar-theme-main-menu ul.navbar-nav {
+	margin:0;	
+	margin-left: 5em;
+}
+.navbar {
+    height: 28px !important;
+	min-height: unset;
+}

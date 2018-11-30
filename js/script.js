@@ -17,7 +17,7 @@
             "feedbackLinkTitles": "Contact NGA, E-mail Feedback"
         },
         "ui": {
-            "zIndex": "3030",                       // string for number is preferred (default=7)
+            "zIndex": "1001",                       // string for number is preferred (default=7)
             "hideFooter": "false",                  // string for boolean is preferred
             "hideClassification": "false",
             "hideClassificationWarning": "true",
