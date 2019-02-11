@@ -47,3 +47,7 @@
 #navbar-collapse #block-ecobar-theme-main-menu {
 	background-color: #333;
 }
+div.grid.views-view-grid div.row {
+	padding-top: 15px;
+    padding-bottom: 15px; 
+}
